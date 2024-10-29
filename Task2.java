@@ -54,10 +54,5 @@ else{
     System.out.println("Grade is F");
     System.out.println("Your Failed");
 }
-
-
 }
-
-
-
 }
